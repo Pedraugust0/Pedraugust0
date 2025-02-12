@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Augusto 👋
+
+Bem-vindo ao meu perfil no GitHub!
+
+## 🚀 Sobre mim
+- 💻 Estudante de Ciência da Computação
+- 🔧 Gosto de trabalhar com backend
+- 🌱 Atualmente aprendendo mais sobre Spring-Boot 
+
+## 💼 Meus projetos
+<!--
+- [Meu projeto de chatbot](https://github.com/exemplo/chatbot)
+- [Outro projeto interessante](https://github.com/exemplo/projeto2)
+-->
+
+## 📫 Como me encontrar
+<!--
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- [Meu site pessoal](https://www.seusite.com)
+
+
+---
+![Imagem de exemplo](https://via.placeholder.com/150)
+-->
+
 
 <!--
-**Pedraugust0/Pedraugust0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
