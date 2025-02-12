@@ -1,11 +1,17 @@
-# Olá 👋
-
-Bem-vindo ao meu perfil no GitHub!
+![java](https://github.com/user-attachments/assets/e3be50cc-f4f2-49d3-acd8-e9604962b83b)# Olá 👋
+Me chamo Pedro Augusto, tenho 19 anos e sou do Espírito Santo.
 
 ## 🚀 Sobre mim
 - 💻 Estudante de Ciência da Computação
-- 🔧 Gosto de trabalhar com backend
+- 🔧 Gosto de mexer com backend
 - 🌱 Atualmente aprendendo mais sobre Spring-Boot 
+
+## Tecnologias
+- Java
+- Python
+- SQL
+- Javascript
+
 
 ## 💼 Meus projetos
 - [Projeto Studium](https://github.com/Pedraugust0/Studium)
