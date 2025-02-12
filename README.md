@@ -8,10 +8,7 @@ Bem-vindo ao meu perfil no GitHub!
 - 🌱 Atualmente aprendendo mais sobre Spring-Boot 
 
 ## 💼 Meus projetos
-<!--
-- [Meu projeto de chatbot](https://github.com/exemplo/chatbot)
-- [Outro projeto interessante](https://github.com/exemplo/projeto2)
--->
+- [Projeto Studium](https://github.com/Pedraugust0/Studium)
 
 ## 📫 Como me encontrar
 <!--
