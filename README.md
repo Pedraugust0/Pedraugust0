@@ -1,4 +1,4 @@
-![java](https://github.com/user-attachments/assets/e3be50cc-f4f2-49d3-acd8-e9604962b83b)# Olá 👋
+# Olá 👋
 Me chamo Pedro Augusto, tenho 19 anos e sou do Espírito Santo.
 
 ## 🚀 Sobre mim
