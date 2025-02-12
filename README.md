@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Augusto 👋
+# Olá 👋
 
 Bem-vindo ao meu perfil no GitHub!
 
