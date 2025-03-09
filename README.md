@@ -14,5 +14,6 @@ Me chamo Pedro Augusto, tenho 19 anos e sou do Espírito Santo.
 
 ## 💼 Meus projetos
 - [Projeto Studium](https://github.com/Pedraugust0/Studium)
+- [Projeto Gestão Produtos](https://github.com/karddigitalmente/Gestao-Produtos)
 
 ## 📫 Como me encontrar
