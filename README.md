@@ -1,9 +1,11 @@
 # 👋 Olá 👋
-Me chamo Pedro Augusto, tenho 19 anos e sou do Espírito Santo.
+- Pedro Augusto
+- 19 anos
 
 ## 🚀 Sobre mim
-- 💻 Estudante de Ciência da Computação
-- 🔧 Gosto de mexer com backend
+- 💻 Estudante de Ciência da Computação (4° período)
+- 🔧 Foco em Back-End
+- 🤖 Interesse em IoT
 - 🌱 Atualmente aprendendo Spring-Boot
 
 ## 🖥️ Tecnologias 
