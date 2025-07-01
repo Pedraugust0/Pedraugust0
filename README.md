@@ -15,9 +15,8 @@
 - Javascript <img src="https://github.com/user-attachments/assets/373968aa-54eb-4c2d-b14f-308c2439190e" style="vertical-align: middle; width: 25px;">
 
 ## 💼 Meus projetos
-- [Projeto Studium](https://github.com/Pedraugust0/Studium)
-- [Projeto Gestão Produtos](https://github.com/karddigitalmente/Gestao-Produtos)
-- [Projeto IoT Sensor de Gás](https://github.com/Pedraugust0/AuraSense)
+- [Projeto Studium](https://github.com/Pedraugust0/Studium) (Bot Discord em python)
+- [Projeto Gestão Produtos](https://github.com/karddigitalmente/Gestao-Produtos) (Projeto de estudo em java)
+- [Projeto IoT Sensor de Gás](https://github.com/Pedraugust0/AuraSense) (Projeto com ESP-32)
 
 <!--## 📫 Como me encontrar
-- https://github.com/Pedraugust0-->
