@@ -16,7 +16,7 @@
 
 ## 💼 Meus projetos
 - [Projeto Studium](https://github.com/Pedraugust0/Studium) (Bot Discord em python)
-- [Projeto Gestão Produtos](https://github.com/karddigitalmente/Gestao-Produtos) (Projeto de estudo em java)
 - [Projeto IoT Sensor de Gás](https://github.com/Pedraugust0/AuraSense) (Projeto com ESP-32)
+- [Projeto Gestão Produtos](https://github.com/karddigitalmente/Gestao-Produtos) (Projeto de estudo em java)
 
 <!--## 📫 Como me encontrar
